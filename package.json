@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin-md-include-it",
+    "name": "gitbook-plugin-include-it",
     "description": "Plugin for Gitbook which inserts external files into the books Markdown.",
     "author": "Bo Marchman <bo.marchman@gmail.com>",
     "main": "index.js",
