@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin-md-include",
+    "name": "gitbook-plugin-md-include-it",
     "description": "Plugin for Gitbook which inserts external files into the books Markdown.",
     "author": "Bo Marchman <bo.marchman@gmail.com>",
     "main": "index.js",
@@ -10,10 +10,10 @@
     "dependencies": {
 	"q": "*"
     },
-    "homepage": "https://github.com/rlmv/gitbook-plugin-md-include",
+    "homepage": "https://github.com/headzoo/gitbook-plugin-include",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rlmv/gitbook-plugin-md-include.git"
+        "url": "https://github.com/headzoo/gitbook-plugin-include.git"
     },
-    "bugs": "https://github.com/rlmv/gitbook-plugin-md-include/issues"
+    "bugs": "https://github.com/headzoo/gitbook-plugin-include/issues"
 }
