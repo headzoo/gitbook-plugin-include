@@ -50,7 +50,7 @@ module.exports = {
 		.then(function() {
 		    page.content = page.content.replace(re, function(match, p1, p2) {
 			var filepath = makePath(p1 || p2);
-			return files[filepath].toString().trim(); // strip whitespace
+			return files[filepath].toString();
 		    });
 		    return page;
 		})
